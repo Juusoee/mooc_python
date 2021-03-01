@@ -1,0 +1,7 @@
+etunimi = input("Etunimi: ")
+sukunimi = input("Sukunimi: ")
+katuosoite = input("Katuosoite: ")
+pnumjakaup = input("Postinumero ja kaupunki: ")
+print(etunimi+ " " +sukunimi)
+print(katuosoite)
+print(pnumjakaup)
